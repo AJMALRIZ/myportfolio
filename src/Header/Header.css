@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+nav{
+  font-family: Poppins-bold,Poppins;
+}
+#pills-home-tab1:hover{
+  background-color: #0BAA0B;
+  border-radius: 10px;
+  width: 100%;
+}
+#pills-home-tab2:hover{
+  background-color: #0BAA0B;
+  border-radius: 10px;
+  width: 100%;
+}
+#pills-home-tab3:hover{
+  background-color: #0BAA0B;
+  border-radius: 10px;
+  width: 100%;
+}
